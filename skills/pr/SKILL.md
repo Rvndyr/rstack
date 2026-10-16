@@ -60,8 +60,7 @@ The author is grading its own work. Support the door call with something observa
 ## Finish
 
 1. Show the draft body.
-2. Ask the user to run `/unslop` on it, then update the draft with their edit.
-3. Ask before running `gh pr create --body-file`. Never push or open the PR without a yes.
+2. Ask before running `gh pr create --body-file`. Never push or open the PR without a yes.
 
 ## Mistakes
 
